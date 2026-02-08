@@ -27,3 +27,9 @@ Update the API keys in the code by replacing the placeholders in the `AI_Assista
 ```bash
 python app.py
 ```
+
+📬 Author
+
+Joncy Keda
+
+AI Developer
