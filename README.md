@@ -30,5 +30,4 @@ python app.py
 
 📬 Author
 
-Joncy Keda
-AI Developer
+Joncy Keda (AI Developer)
